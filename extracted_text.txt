@@ -1,0 +1,2639 @@
+Typed Text:
+Modul 1
+PAGE NO:
+DATE:
+Topics coveLd
+Inaedu chin h big data analyts
+Big dala
+Sealabili h &P asall Psocesing
+Designig dota achitech
+-Deta Seusces
+- Quali hy
+- Pre processing a stong
+Data ctoras. alAnaly tis
+- Epplicobns
+- Case studies
+hat is Big -Data (Data in Pel
+Veay comhax
+lalge data
+Data
+ushic h is conphxfo handle b
+taditionadata tncescing sefka
+9a les
+A Yolun ocity and/or
+Aia vaaiety in<onation assef thal
+abquires ns foon ef cocess ing fcenhanced
+dusion making insiht discoreiy as
+proress ophmiahin Csatnes'ae)
+ecesseay conisns to censidla
+dataset as data theeavs
+a 3Vs ase
+alyo kaASn ag chasretRishcs Bi Data
+Volume: This
+deta
+e s Thisa is a
+measuable wit.
+data
+The
+The sise aleo dlaminer hoo fo oroces, a KOel.
+velocty
+This aas to hew last tho date
+eege ole ia fnceesing.
+cleo plays
+is nasing fhe di (cid:5) &ata.
+land
+daabusee tha
+fadatima) daa
+: h
+Vaaiety
+and Onbe gtored io
+detae cvailable
+lyow & ce lunns
+ditnt fermaks ame forms The focma
+n
+to deiele
+be kaoun
+fhe
+3vsie veacty he
+ismbor kant to
+tho
+a ceeal role
+Daka
+ko the Pes
+to
+The
+struchted 2. eunshuetued s3. semistauchue
+mults ructe
+. Structur Dela Thu data ughich s
+sto tha poiat factual
+assocolk th data schemas and dala
+meduls
+RD Bos tables.
+it is
+ana ndggfaadeble
+DAIE
+. Unstuctaed dlasa This
+This aan data
+JA farmat
+cnsructuete needs mere s torg a
+anatyigaseehingis aleoe
+hisisa uchuodcla bul
+oth erms makees or heieAy
+tha leta
+X Maemal
+Thiy afeas to clato
+Conzishiegmuiple aoata fdala
+shuctws nstuchwidsemi shrchurd!
+Thay have faemat Thay
+Zoundia. non-trans achmad ssms
+Anefhe. gcessaing bi dut i
+So cal networksA webdata
+3.Cuytomemartea_lalg.
+dat
+Biz dabm eluyaifeatm
+Deta sOuAces e}- RDBms
+Deuta fcmate struch a semi struchuy
+PAGE NO:
+DATE:
+iData
+SOaces olistribuld fi
+Ba data format
+shrachsed
+sami srch,
+emuti shauchad
+Datastores
+sfruche
+wescleuel
+c esvelc.
+foreszing by dat
+rolis
+Anyis er
+Baten sehel
+Patz analyis
+methocs predicthre onaysis
+Dute
+Hemer Busit
+ProreS..
+Big Data Handlig
+technigls
+PAGE NO:
+DATE
+Scalabilily k Beallelprecesrins
+Hundidy
+Neds hundheds f compuig neds
+short hn al miimumcOst
+dcse
+Sealabidik nables
+n the cafacty d data shorag Arecesing
+to hane
+9hen theorklad
+ne ede to in cdease
+Veeticel Seela bil by t Scalig
+t neans.
+gatimsayhe,poxhig
+the
+isualjalon cafablihes
+end
+accerlin to theaachiiche hat uys
+sosces
+Data X keaabyts
+(ineea seeliwith
+Cadsi
+baees equal
+pracesing
+DATE:
+Horeie(cid:27) ntal Sealability
+the numbes
+sncuoing
+coheience
+coosking in
+pea
+csrkoacl.
+sealing
+actore
+Ldistbt the
+faiallel
+tasks n
+data
+teAa bytiS
+2
+t'ne lke prece
+Ctx) teuabye
+then
+to scale
+ingskes CPU'9
+Altearatively
+poregsig plate
+faralll
+Cmasively
+MPPs
+cloe gidaluste a
+Siyelypaalal proesning Plto
+Mas
+Cmep)
+and conp
+Many pmegn ale SO
+thet Covi be gun a
+mPppltfon
+paalleltules
+Can be dn
+lvels
+i)aall e
+i)sepu compuliis
+Distribld cenputing moclul
+elowal,g,
+noaly
+gspeeal nehsorks.
+neelid by tiy speea
+hliinet buseel
+Crouol Cemp tig
+thatprovidi ha
+deta to fh
+pocesg
+combulis othe cvic os n cemand
+pufocm paaallee ecstbula
+|benafi
+ne enrironme
+muleiple
+secua'
+cnnole
+AWS Amaon eb Seic eg. Klosh'e
+Cempeli eloud CEC2)
+tpach cloualsrack
+a) Ondmand seaviCe
+Rconce paeling
+c) ecolhalik
+d) deco un bi li,
+e) orsad alw
+enccass
+PAGE NO:
+DATE:
+cloud compug
+as Seuice (Iaas
+-'eyi Tata communicahn
+virhal
+ceni
+luta
+Amaen
+seele
+Paac) Praridy
+Platfoen as sewice f
+loos luelay
+hne enw'remmnt to
+fpliaaim
+to buld
+Hados cloud seic e
+ax seaice (saas)Providin
+orcle big data SQL
+localom comnectd ith each oh
+to achieve a Common
+eats fg
+-SalobIe
+Shaingf Asowcee
+alrausbuely
+EGAP :ON
+: ETAD
+atwle gnstupmoc
+eyt ksa
+daoA .gicnalab
+ne tewdeb gloni
+essecorp ela aetfihs
+ecneiP
+irtsiP dlb
+lsulc
+galupnoc
+gnupnoC
+telnec
+oH suonam
+to
+goitbirsb
+no'ertsnirla
+lalubjrhsiD
+lelbotsiD ailupmoC
+yebmem ohw
+notaginagrD
+nmS lnerp salapmoC
+euss
+ynagoaleh-
+el b th
+tcerrocOd
+tlusel eo
+eilouropS ava elenaoccáne
+eud
+yimynona
+PAGE NO:
+Desigoiag Data achikchui DATE:
+pata Set ccag
+lata sets Crea in
+Dale
+cloud web ete
+time).
+Sgnchwra
+te efblodg
+D la
+procesing map educe, SChedl
+Hive, Pig. batehey or procernie
+VO SQL daaba
+ayes JConsiduseln s Hadosp
+Dala
+storag
+Cem paion ebase, Mo
+asgunog
+1Data Semonhy ngshon
+Data Ex tract loa deta
+Tronsfoca
+batehy y
+Aoqusi hon CEL
+Songces Pushor Pull |Dota pta
+dota
+rom
+exlinat ingsbion
+web
+Souresf ata
+Ca data
+aietus
+tunchon the los
+DATE :
+storin
+- APþsolns
+pgams k tolo s
+Souees be etesnad
+Can
+Sensons tackess
+ouces bemechin ashieh souace Qla
+-Data SSuces Can be stSemishactu
+Can be Soual melia.
+Cen be li na
+base,
+Das Adbm tletfle spaod cheek mei
+|Seave neb serercS
+-Souce may be dato storeor abhkc asons
+- structhaad
+ns tretwd
+-Sensors Signule
+Data
+Rgh iqeliby dala ~ enables all tho
+analys,deision
+lute has
+this istlim(cid:25)t imboence.
+Rceng
+- Robstness
+keliabiti
+PAGE NO:
+DATE:
+Data inligty aaas ftoo the moiakzuanca
+consishenY
+pta Pre processig
+ingshim
+-Stes befare lt
+- Am ugt be<ore ruanig nachi
+Leasaing grithm
+LSneeclo.
+nllblyialen
+Dade cleaning eding,duchion
+Data velidalm trunsfomtr
+tsescoeling
+Data a leoning
+Correchng
+Pro cers mensr
+cncolli cncorreety iaaccual r
+ianevelet
+cale hg the Outlieg
+men
+Cmrechy me lete
+clecng
+dota clening bools
+Jt is den
+min
+PAGE N0:
+DATE:
+into is laeli g deeiins
+i yabeta
+Deta enlihmen
+Data
+enhence or emprove the
+eleta
+raa
+Data
+th aquired clatasets
+isataalhve
+ii)sel chive
+tu) auo matic
+Dala selchm
+ingsbet
+the data hase
+Data Wrongling a rto the pocess
+fsansfoanin ane
+ena bles
+hichy mates it valnebe
+and dta isualijelieo
+Data foxaat gd dusing pt processig
+examy les
+cloud be
+PAGE NO:
+DATE
+Separata alylc sy)
+) Comma
+csY famet
+eKporl to cloud
+Data Store
+Data ster age b managean
+Data clening reduchomrengia
+Pata stere Exposl clouct
+DataL mini
+Analyiis mashin LeasninAcalyhce
+Naluul
+layu
+Proce ss ing.
+Data ßrts Data
+Visueligatin
+Data Inlel
+with tha
+Jenlapeie
+seavero Data
+Aaaehsuse
+Data
+fe frocesing
+amabyss,
+data tex vi sualyeo
+DATE :
+waius
+doudseniees:cl eud
+Can be acceyd
+Services Tha sericy
+a claudlaet Such
+bsoutses a web ses vices
+Data sturag and Analysis
+date
+The d aba store io trudtone
+Big pata stosag
+Not on ly Ss
+dala
+Consieed
+Semi-strehaed clata Big datestovee
+Nol
+ha store clonak unmalk
+glibl e
+data nd
+mullehle shenna
+ldata nedl
+Dc los corsishirg ninlpted kogla
+big hash bable
+)clags Consithag uardered keye
+) lay consishng fodaed keys
+sthuetd data stevng sycls
+PAGE NO:
+DATE
+CcocuckAA
+Man nol efied bable scheaa.
+eplical ak
+Vn) Data A9tten at
+multile hods hnee dAaatata shrhe meg
+Lis faut folerent
+s)may aelar ACID teee ding he
+datastore
+trensachcmi:
+be paatoned land folos
+Dala store
+CAp Ehaorem
+COerislence Bi Data NO SQAanel
+B
+Tsadhme data stores
+Biy Data PPllaaktoacrmm
+Biy data platjorm sheakl fracisiontoals
+Lonelsesvices for
+data mirenmluat
+the
+date soweey
+into cShasive l ' .
+tracltimad
+data ereehnigu
+Hadoo
+Hodso
+Soer'el media
+volume
+adoob distri buhil High
+data, mess s, pa7S
+le systeo CHDES)
+emals text fles
+Not ony
+De camens Imay
+Dea na house ke
+Data mat
+fioharnel alata
+tores (aa)net Sesr Computang
+Detannironmt
+Hoeloob baseal Big Deta
+Consist Big data
+Bi data platorO
+menagt
+bnoliligeaceslis
+storag can dplay Hadesh distrnble fle
+Sygn(HDES NOsQL data sfoser sch ay
+MongaB carsenelaa
+HDES Sysln
+HBase
+SouAce tarag sy
+Mesos
+Mesas yo.gcs a eSOugccee mneenazmut
+patom ohieh enebles shang alustea
+anabjkes staek.
+clemnig
+Dala ameytia ca
+jresdict fetaass, bikhes.
+Phases n Arafhs
+Deerphire anabtic
+Presctthive amalytrey
+The imporlonce
+) time reduchon
+nes Aedmct plannig nd dive ofman
+)smart cleei meing uyig edchve
+Cnalsis
+Bextaly ata anaytiss stack (aDAS)
+Cosiss f data procesi ngdata managm
+and esOuce
+Applicaliens
+Data Psecessirg Combiner batch, steoming
+cnd ialimehe computatins
+3. Resouce manngmnt seaie
+Compenet proridy sor
+shaig the
+ingctne actoss frmrls.
+PAGE NO:
+DATE:
+7 Bi (cid:5) Data Analyh'cs plicako
+Cae stueles
+Sau.
+TBig data analyhts
+nebehing raud
+Sa data risks
+-Bi9 data celit piisskk manage
+Bi Dato cne algaithen trading
+Big d a cn meliine
+,cduetising
+
+Handwritten Notes:
+Page 1 Handwritten Text:
+Modu 4 (weve)
+
+|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+_|To9i es covered
+
+ 
+
+ 
+
+ 
+
+- Inbioduchion tp “hg dal anabyt <s
+z Big dal-a
+
+   
+
+ 
+
+® Sealab tity & Parallel Froce.ssing
+a Desig i dota architects.
+- Data  Searees
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= Qual fy
+
+= Pre. processing g Storing |
+LL “Data ctor0.9, Ae ec
+
+- Appli cahins 4
+
+ 
+
+ 
+
+  
+
+= Case stucdkec,
+
+ 
+
+    
+
+ip iS, |
+
+ 
+
+bSAak» is Big =Daba . CDakoin Pelo bes)
+
+   
+
+ 
+
+combhx ond 00
+
+ 
+
+ 
+
+fosge aba sets aso knean og oo
+Spice is foo “ial a 3
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+hed (Hi
+ae ee io lands : and /or
+t atm a thot
+
+ 
+
+ 
+
+  
+
+ 
+  
+
+Lad aa 0. oe ef processiog fr enhanced
+
+ee ee uaa bt ciscovely ae at
+
+ 
+
+ 
+
+ 
+
+  
+
+process ae cuit gor)
+
+ 
+
+BV'S AX Necesees, eoncdinme to consids
+
+ 
+
+    
+
+|a_clata sof as bé data: thay, 2Vis ase
+Lalga kneasn og choxreeteaish'cs of Bis Data
+
+ 
+
+    
+
+lam i a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Page 2 Handwritten Text:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+——=== ta, z ee
+Re —— nr “0. bs
+Wee goowsated ty tee of See
+eee : oo hse :
+fre codon flees Fs
+land tne
+landed eZ
+| vases 2 da sen tinned —dodn e882 iden
+: Lig aseld Shreve Frases ond ba
+Pa fumn awk } (oe \ ba
+llyeu's & ce uw
+| = Rt : . P ; ,
+ee jis dale cs fo be _Fucusn to deck eo
+bye fg Pe
+Ono Vg ity
+ad oe 7 =O Vetac - this
+
+See
+
+——+t
+
+loieg
+
+1D kowthe pes
+
+th rs _tamfor tant- te
+fhe accurac gf the plate sp mS
+a criuteal rofe-
+
+ 
+
+ 
+
+ 
+
+ 
+
+Types Datos ee be thts imbectert _
+Peciball thence spaunts ¢ fins
+
+ae bes & ee
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b
+ee 2. unshruchsef 3, 80m i clechig
+i | 4. mutbtishructrreot -
+,
+» Strachrsh Dota = The dota aghich ng
+| do tha poral £ 2 Ne enJerm -nol
+asso ( ‘th Balt Schamas ond ad Q -
+med L of: RD Ae ab -
+SE r. Ss ¢
+ee
+
+
+Page 3 Handwritten Text:
+r
+i
+
+'
+
+|
+
+ 
+
+sited foun dn. nen - trans ach mol _ Systems ei ek
+
+3. coy tomer_mes ler hota.
+
+| os Unstuctored alata 1 Tras c Aouo vay
+Sb bwohs any profiad morlrt et
+
+|
+
+|
+
+This -cloes net confers 40"
+
+l. eon ae
+
+poveting Stonity 4 head: Mane
+| anal Oy sing. & SOmachivag ts aleo vee
+
+ge Geen! sthucharact ethers
+
+_asithio fhe celeron»
+
+: Consisting. his iple —fermadts_qf debro
+
+LAs - ollows: Be i ae ees
+Pecisdiieiicdll al tag Sey anes Talis A web- ae,
+
+eo -—-4
+
+Lins iractusacl clata needs ee s toy &
+
+oe
+rand: i o as
+
+This tsa ah atlases cheater aay
+cloes not- fellow fu bated. rar. ft egos
+ofhar _fecrms q mor Fes er tk OS he “3
+
+ 
+   
+    
+     
+  
+  
+   
+
+ag XM bo, emo _
+
+| Ao Mult steacharacl tbl) shined ot Pn! |
+i Bs The aoas to lata
+
+ 
+
+STC tnel, Lens hrachattiels@m i shrachured.
+Thay con have mon +— for mots. They. OR t
+
+latinas — ana ¢. clestfiginy big diate se
+
+ 
+
+ 
+
+of. Trroansachonse chedtm & basintegy  prececr
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Moehine— odnet ote.
+fe ran ne ‘- RES 2 sa
+
+  
+
+Big i ae thoy feefrn_._____ Bea
+
+  
+
+ 
+
+  
+ 
+
+   
+
+a Sougces — ef = Rdams. :
+ra.permeke — —_Strachyis e- Semi shea
+
+
+Page 4 Handwritten Text:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Page 5 Handwritten Text:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bi Seatabr li oles y
+= Mencia of fool fe pata bytes ef
+__ | data
+— Needs —hacdracls f eo modus.
+a dot s4-
+
+Sherk dme at minimum _ cask -
+
+ 
+
+Scola bihit enables tnrcatoase oF duc tsose
+tn the capacity ef data —shoregs » farecess ing
+ound amely jeg dh fs tu. capacity of fey
+
+ca to hancdkha “ftaa rt ee £ 7 tthe
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pa | pShen Hu biork Donel ‘ntieoses five coxbebd lity
+
+| neede tp tncdence . bohen the workload
+
+: ey exceed ft Fnintheas ao ke
+seal ie" mp fe Scat. iF pent -
+
+ 
+
+ 
+
+|| Ven OF i cand S@eolabihwhy : ct mvane Sea tiar
+
+) f= : s i re <AUGCE a:
+a ee oe & : : a;
+
+es (ntdraging tho —s anety bes, wegen
+
+ana AP $08 obra Lim Capohy Whies 3
+
+| Scab: OF pe Desinnty —ae eect a *
+_lacearcling tothe 7a Shas Lic bys Hae es
+
+| Rasp usces spa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hl a ie
+— | 4 Data = x te QO. a
+_ alt cesting hig Se Lo =
+pal a re N Cincre osed st
+
+ 
+
+compu x ky ky
+
+uod
+
+ 
+
+| Sealing tp mne2ans DLO Cesiang “Fa fees ©
+buss or much Liss then fe we oe
+
+ 
+
+
+Page 6 Handwritten Text:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+cake Y
+
+ 
+
+Se
+Easy a to_
+2 . CRY “3 De aes
+
+Lene pints Prnig tes 2 enfee CRE
+
+ 
+ 
+   
+
+ 
+
+    
+
+At teanoat:vely noe can Fao
+
+ 
+
+ 
+ 
+
+ce
+Mph i's Cmosivels _porotbt PSEC earings ple
+
+ 
+
+  
+
+| chocud » Ft
+comput oF 5/9 :
+
+Koh elas ter a ch stry but
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+=F foes sively pas oh y
+SSS"
+
+ 
+
+ 
+
+ 
+
+(mop)
+~ yon: Ms ake so log and
+hak aha easel aca gee
+
+The sluliiom fs  @ufri9 expe
+
+   
+
+ 
+
+comp Sh. oxigere or. Aye nage tf
+
+ 
+
+ 
+
+posattsLiget 0 Con be. chun :
+Aves
+
+ 
+
+ 
+
+ 
+
+D wr trsasad Lwvef
+
+Mir L Ib
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Page 7 Handwritten Text:
+ 
+
+ 
+
+ 
+
+ 
+
+| Fi -Sepudats comp Or
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dist bulky compuhi ns Mocksl i
+ee SS :
+ct tes” ‘ dowol a . ” re
+
+jerked [PRPC hiss be_Cr Ar oT PA bo > d }
+| Roker seks py clus fributies \ Compuls: nocly .
+
+Con ns clie eg bigte pte af nefrworbs -
+
+Cleucl com jee thinsk eee ee
+
+sae that —provict ol
+
+Preece ssa Rocouses £ dakar is fre:
+
+comb iF 5 owe ofa clvrces on eh. one
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+_benif th TE ae  oleghrb
+
+| Compukk cn aiclo y "A2 environ
+
+ 
+
+ 
+
+- raiadibigele csclae_ppasfacn a pmmiate Ee
+
+ 
+
+bs A ato Sec at Wee
+
+ 
+
+-aclaae ont ortnde puck at oi oa We
+
+ 
+
+ 
+
+ 
+
+ 
+
+#3 1 AWS > Amojyen vreb Serer. E lesh'e
+Comput: cleud. CECL a \
+Mac yo sept. AFSirt2 Oy Apachs One Siro.
+
+ 
+
+ 
+
+| featur ¢ clondk comp
+a) On dimand <£€¢
+
+ 
+
+ 
+
+ 
+
+6) _@ cobaby lity ea nee eet
+a Account bir lr A:
+
+ 
+
+e). BY Ooo nlw nvcecess-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Page 8 Handwritten Text:
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+se mi
+
+ 
+
+ 
+
+ 
+
+©.
+
+   
+ 
+
+SOS
+
+Pia
+
+ 
+
+Dane AONE
+
+ 
+
+ 
+
+fees oo sence
+
+ 
+
+ 
+
+G:  Hacleop cloud Seausie 2s
+
+ 
+
+ 
+
+i SOanwyvce Cseas i
+
+_~——————
+
+p
+Cepfinso
+
+OVC
+
+   
+  
+
+ 
+
+Bb pL: cokvsorr S A
+(0
+
+.
+7 " CO
+
+ 
+
+ 
+
+Fe , Sar nee g
+pr ewos of f- een P og da
+
+ 
+
+ 
+
+Said a Clurs Fes. Com poxTa nated
+
+ 
+
+ 
+
+ 
+
+Sop of compu. s ae Se
+
+ 
+
+Jocotoons ade connochid sith
+
+ 
+
+ 
+
+~/p
+
+   
+ 
+
+  
+ 
+
+ 
+
+kee
+
+ 
+
+ahi tVe a Comme
+
+ 
+
+ 
+
+ 
+
+| {eaten f : os
+
+ 
+
+TSatable
+
+ 
+
+reihean a55 a ie ce
+
+ 
+
+7
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oe al ,
+” be
+
+  
+
+
+Page 9 Handwritten Text:
+PAGE NO:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+eles boxe compucking *
+
+ 
+
+alr Gasuse compu connects 2 als WS:
+
+ 
+
+ 
+
+ 
+
+oe apca a _sv (ask.
+
+ 
+
+= Jt ¢s wy ad bela uw
+eg b oe Fh
+
+ 
+
+o ( Y
+
+ 
+
+prec esseg axxo . Aupheal between tv necks
+for Leecrol botente: :
+
+ 
+
+| Disteroutes | ate
+
+Sp --HaolesP arch Lic tons.
+
+ 
+
+ 
+
+   
+
+Guid
+coppers
+
+Smee as oa Corap webitog
+
+ 
+
+ 
+
+ 
+
+  
+
+Oloes Sh
+| Coupled
+
+ 
+
+ 
+
+ 
+
+Csess Ov:
+
+ 
+
+Flo m&ynvouns
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+T . oe
+(A) Megha Seep ae
+
+ 
+
+ 
+
+—_Dishey bubss Co prs LL: cg aciod)sgin:
+rohrch bees ALC n9_C 0.8 Va>) Peovis hg
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(SSU0g
+| = pe hioqe nuit
+| 3 Prep orks alws
+- Spornolie avec le~lo7 b*
+— dacerrect Resrtte “Oe tan acon rlahl
+
+ 
+
+ 
+
+ 
+
+Avs onong nity a
+
+
+Page 10 Handwritten Text:
+ 
+
+PAGENO:
+DATE:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—— \
+pA 5| EX bar l- Pot “
+oe sets to Gf Pls
+ (Consampban Cloud web ele brevsLbe
+_! “Chess j bi ;
+E : :
+TecAo le ood baw. > or
+: Map Seduce, Schadused a
+F Hive, Pig, both or | /I bree
+Pit
+— SAL
+‘Consicdisrelion adeoh
+| PPS formals str bake
+Com prate: ov file shh Hbhase
+- Tayer 2, Aachen ieee ia
+Data__| Ex brock lead Suen og ap! dake
+ends hom & Transform oppor! i Seung
+Aegis? Hon BL
+SH
+La ! tush or Pull | [Potq
+b, ‘he r qd dota from pes
+
+ 
+
+ 
+
+SOr-4c es jer bles
+
+ 
+
+ 
+
+¢ shor) Wwebx.
+
+ 
+
+ 
+
+rool
+
+ots
+
+ 
+
+ 
+
+ 
+
+ 
+
+eis
+
+a
+
+
+Page 11 Handwritten Text:
+ 
+
+= App te coteons
+
+ 
+
+ 
+
+__|Seugee an be oy for
+
+ 
+
+Pistepronns & fools _ ge ator -
+
+  
+
+ 
+
+_—-4yshans logs be feeds
+
+ 
+
+    
+ 
+
+oe bractoas web lors orp Vas
+
+ 
+
+———}SOvACes com be malvinas ustich sousce Ralwm
+
+ 
+
+from A eal=ce Cotati tes a
+
+- Dota qusrcec can be ae 1S Machatas
+
+ 
+
+| = Ums trrzetruny of
+
+ 
+ 
+    
+  
+
+OT camshrinetrn sot.
+
+— Con be Sound mitra.
+
+—Con be Auta Auposi fea! es attn ag WM cx be,
+base Ad bars, fletfrle fos cad 6 eof pra.
+
+tives, 1n9e6 C3eayens) esyv
+
+-Sousces mace be dake store Joy abb lr caton
+
+“Sensors iS 'qnohe A @Rige
+
+ 
+
+ 
+
+ 
+
+ 
+
+“oo ately dala ~einable olf He
+
+   
+
+ 
+
+   
+   
+
+Atami yQel ah wo 8 deni ve See
+| Plom nd ag a Enea Lod, ols Cave Ds OC 4 :
+
+ae ae
+
+ 
+
+ 
+
+= Relevoney = pais is — uftleimesh ioap leave
+Reeency : i
+
+ 
+
+ 
+
+ie
+— Robustness
+= Rebiabit ib
+
+ 
+
+ 
+
+ 
+
+
+Page 12 Handwritten Text:
+— Steps hefare A ob
+
+Ha cs Es A mugt befar
+
+ 
+
+ 
+
+~ sna oleorithm:
+—__§| Aasmaiiies lensed
+£§
+
+     
+
+a dota ¢ Z
+
+tI = Pras ART
+fs ‘needs of -
+
+ 
+
+ 
+
+‘ec Ag it recta ob:
+Drop pics oul 2 a
+oulsk on Volts -
+, Eb en ne,
+he A Qe cliinddonr
+
+   
+
+4
+
+ton Balcetlrt, sans
+
+ 
+
+= Delo ae eLiting » Sach uch'or
+te ex porena (ii 7
+— Dota veblrdeat im transfecmohion oF
+
+tres cock as
+
+  
+
+ 
+
+- ELT  Pprocesgr4.
+
+ 
+
+  
+
+potesie fee
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pre cess ¥ _remee or Correchns
+| ene L 4 encorrech, (naccuteals OV
+pagavelent pots of the hota S f [-
+
+ 
+
+:
+
+‘iene
+
+  
+   
+  
+
+bce’ thom _-
+: caske chins he gheuale eutlreg or
+waigiabemts  enlary Vosluree an
+| Che crn s'A4 & ee Hig alias
+
+i:
+
+ 
+
+ 
+
+ 
+
+: | dnconpdli Or itrelevrenat das
+
+ 
+
+| debe cheanicg (-eo [s <
+
+ 
+
+   
+ 
+     
+
+ft ts devs hablar?
+J obo. ad
+
+Ms
+
+ 
+
+ 
+
+
+Page 13 Handwritten Text:
+  
+  
+ 
+ 
+  
+   
+  
+   
+
+ 
+
+ 
+
+ 
+
+| tate mishoeling decisions:
+| = Ae hele ta ‘ os ke shruchstcng beta
+inde upoths 5 ;
+
+. Ge. Open Rf ime = ge DotaCro roe
+
+[Peter ee hrriante
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data ensichma Safes fo
+
+Cunhonce on Ta cae te
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dobe Rdshing : i= process ¢ Antal adyushas
+the Aguirect clatusebs. 2s ee gS
+
+ 
+
+ 
+
+it) Sehubve
+1 tu) autbomobic
+
+a agges gales
+
+[Dato gecluehiong 2 ;
+| Finallo.c* pls ef alin
+in to an orvdhiseol, cosvest arrel siexphifrect.
+fpina2 Ory enna nglued Oobo ust” pe
+= pe e__ the dates hase »
+
+ 
+
+ 
+
+ 
+
+ 
+
+s Date 1 ranging : apes fo ths Peecess i
+[-fronsfarantag OVE  meppine fre ater .
+as, Leg: anon preg Ona blec ,
+
+| pocacet y hthich moke st
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Page 14 Handwritten Text:
+ 
+
+ 
+
+ 
+
+J
+=
+
+ 
+
+ 
+
+4 Comma Seposata Vver(usy (CS
+
+ 
+
+ 
+
+li) JSon - Tava coviph objeck Notation:
+
+hn.
+
+ 
+
+Lu) Taq deneth votiaes Ata) : —
+
+ 
+
+a
+
+ 
+
+CS formed
+
+ 
+
+Dota._store expert= fo cloud
+
+ 
+
+ 
+
+ee
+
+ 
+
+ 
+
+Doko Storage & mo, ona
+Pets, cleanigg J reduction. 9
+Onaibhowt & ETL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+  
+     
+  
+   
+
+
+Page 15 Handwritten Text:
+So ee Tee
+
+ 
+
+ 
+
+| chow servicers ee DAAC
+
+by ___ || Seavit er. a pOHICXCCe
+
+_ hrrenge | verler@antle op A web
+: || booeXSeh +4 web sex vices -
+
+ 
+
+ 
+
+| Deu-a Storoagp adgaasl Acolysis
+
+ 
+
+Tha bata Sere en tredpmnet date
+
+ 
+
+ 
+
+bese mernsg.acst sytdvn accd pry ote
+are Aiscugeo! hire - ; ;
+
+ 
+
+ 
+
+ 
+
+Bra dala. Nes@h as Not only SQr >>
+3 dete _wesey only $8
+
+oe er ser
+
+ 
+
+“Ne sop. Aotoboses ore consiclisrch 4
+
+ 
+
+Semi - styrnethns2d Hote. oo Later cbovee
+rges NWoeSQe, i pias
+NeS® | sheands yfox No SQL ox ele mby
+
+ 
+
+ 
+
+Yho chore clornal= eatigne te Lsith Aap) jeal'&
+
+ 
+
+a SAL - :
+| veSae is also pel pn clone date ste
+
+ 
+
+ 
+
+1b) hee corecte NIC een Choy - nen 2 olotoral
+
+ 
+
+dota storage $4chins » and tre plixible
+date medils 2 multsple barr .
+
+ 
+
+ 
+
+|D Clay consishing que ¢ phed bey |votu
+
+Lor big. tiBisih: ete; Pofrennd
+
+ 
+
+ed Clays Conci ting of ee oul &
+
+ 
+
+gr ee
+Clay censishag o& 6rdised ke pat"
+
+ 
+
+YU CJ
+
+ 
+
+ 
+
+ 
+
+1d) clay eonatsbiag fas noatiaaee
+
+ 
+
+
+Page 16 Handwritten Text:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+dota etore prensachion<-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+X)| Pata Store can be posto
+
+CA Pp Ehoorem
+
+ 
+ 
+
+ 
+
+ 
+
+| Coexistence. oH $g_Pate, WOO Bane
+
+ 
+
+ 
+
+Tou de: oma lata Stereos
+
+ 
+
+a SS ee ti
+
+ 
+
+ 
+
+ 
+
+Bis Deke fl oWerm
+
+ 
+
+i S Big data Platform Sheakl bye
+
+ 
+
+ 
+
+shoigl SOnVICES fer.
+
+ 
+
+ 
+
+ 
+
+Hes) en ek —-precess ng ond 7
+
+ 
+
+ 
+
+2: Bake ep peg Eifion sep
+
+ 
+
+ 
+  
+
+2x3. dake
+3 - Redere? ths. COm Pp g
+dato sounfes, 4 nhs
+
+KA
+
+ 
+
+  
+
+“ cohasive Splrenr,.
+5 CaY-om —— lA AL
+
+ 
+
+ 
+ 
+
+ 
+
+onl ge iddaie :
+
+fence Neat
+
+ 
+
+ 
+
+oe (eehroGene Pais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Page 17 Handwritten Text:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+ised
+
+a>
+
+[Won
+
+ 
+
+ 
+
+ 
+
+  
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+   
+
+Hadeop Akstyri bul Higa volums Soered media
+</ dota, mess ad Pras
+
+| Pile system (HDFS)
+
+Fe fem’ & bext fi les
+
+Bi | Ket 0 go te toe =Gr NasQe
+
+ 
+
+ 
+
+ 
+
+[poke woos heute & 7
+4 TDete mosks Ae Wiles
+1 eb Save Save Kap
+wee La
+Be Saeco obo) “enna ee a Compalrg /|
+
+CSAs
+
+ 
+
+ 
+
+ 
+
+ 
+
+Spa
+f
+
+ 
+
+ 
+
+Hoeloop bas €ef a5 Date tenvivenmwenh
+
+ 
+
+ 
+
+| e dala pplotferca Connect oe ay ry
+a Sfrronsye Sen ven 1 Oe Chota) =
+
+A bayeneg taki ltr 5 [eas ee ‘2 a
+storege can Dios Hacoop dechi bth Ste
+Sofie CHDES J, mosa. dako Sfeses such o4
+HRase 4 enangaD Es, Cosondra - HDES a
+
+Li... em opin seuste &torasy ors
+
+| Mesos A Oeste
+
+| eae 4. ee oe Rasowsce _tnecnsgertect
+|
+
+, nh * . , (A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Page 18 Handwritten Text:
+Ee —
+
+Big Pete Stoche . ss
+
+ 
+
+  
+ 
+    
+    
+
+A stack Congshr ff a seh Z ae
+Cormpersscds or of clot Ssiert. usnn tt
+App cots, meth fried rere
+Oreaid, a oma pr senate goon too
+b4 Pitre Stee gor) at 4 tLlewd SAV
+
+’ ow
+
+Since of POP wor 1 td, Ayers
+fravet Ci ond
+
+&is Delo fcaligt ce
+
+oar
+
+ 
+
+az |
+Dota avalyst Cor be aug mtd es
+(Arelesis Ql cate it a faeces x
+fopithre ay ‘Clenrucg oa Gores
+Mads Lick wh as wart Ina toad ‘
+bbabol infer eh en - Segps rg cae; ae
+
+asd sp pm nws deere a korg .
+f
+
+~~
+
+*
+
+Dota ants utes cae, Cf geet ag
+Ceatr sical ome wrath itortL cal het
+that clesheas , seemrevk Banrs
+
+. ‘ C4 ™ Z ® oz
+jeve- fy fen ti-is [Pess: b:h,Aes. J
+/ 7 /
+tw
+A,
+freses (7 Bralyn cx
+-— —
+
+ 
+
+ 
+
+~~
+
+De rer ft wun .
+Deserprive a abytics
+Preele hie turnh ot ‘
+Pres tthe arch. rey
+G :'
+
+C grt V&
+
+ 
+
+ 
+
+
+Page 19 Handwritten Text:
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+    
+       
+
+(re blob De fi
+
+4 Deda Omreteedye \
+oe Dele lnedyfits steele C apas).
+Vise
+4 impor Lonce q hia Dw nm [ony mn dtu,
+«vet .
+
+‘ rv (tras tw? frat one oo es patlh oh
+Z Nt Pine heed big os (aay Ts.
+» Coa }- Badiar Non
+
+‘i
+
+~ bi ave reduchon |
+2) raw Preet wep Planning one Live loprint
+4 «7 re
+
+4). S nah Ae esien mehing a preec-chve
+
+Cc rarmlie si
+g——=
+
+2 Kaw v2 a discovery iS
+
+Peskely Hato omadytics hry capas)
+Coes is hs af dota Precasslog_ sr MO Nason er
+oma Besouvace a Var a
+(- Applica hens est 7 ony. &
+2. Dota Processs canine a |
+ond  valiachve. << ; a
+5 Resource mea pint sof troase *
+ann ona oy oA few__Sharing
+Lafeinchsass ACTOS S MEAs e84._f
+
+ 
+ 
+
+
+Page 20 Handwritten Text:
+td ae . Data Anol, : ofp licatya mo
+
+Oo
+
+= U
+|| Corge beg ee Se
+
+| = 83 Dafa ie dans io a & bolis 4
+“A Sig data analbutics ta Adbicha a
+I mnasbe bins aide :
+~_Bis _chata riSk.s - a
+Le Bis Boje Crodkkt+ wi, Mou pert
+- Bis Dota une a gee
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i,
+
+ 
+
+ 
+
+       
+
+rod) wns
+YG
+
+ 
+
+—
+
+ 
+
+Bis J. tL a heattheary -
+
+85 date mel ecnra.
+Big Data (a Cdvestrsine
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
