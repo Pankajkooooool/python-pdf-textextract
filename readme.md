@@ -22,7 +22,7 @@ Clone this repository to your local machine:
 
 bash
 
-git clone https://github.com/your-username/pdf-text-extractor.git
+git clone [https://github.com/Pankajkooooool/python-pdf-textextract]
 cd pdf-text-extractor
 
 2. Install Python Libraries
